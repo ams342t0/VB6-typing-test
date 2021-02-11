@@ -1,2 +1,2 @@
 # typing-test
-simple typing game vb6
+A very simple VB program to measure typing speed.
